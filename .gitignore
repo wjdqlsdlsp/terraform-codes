@@ -1,0 +1,8 @@
+.idea/
+.vscode/
+.terraform/
+.terraform.*
+*.tfvars
+*.tfstate*
+
+.gcp_credentials_terraform.json
